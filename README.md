@@ -1,5 +1,5 @@
 # decode_wn_isk_am550_smartmeter.php
-a php tribute to pocki80 to read (and write to txt-files) of Iskra AM 550 of Wiener Netze
+a php tribute to pocki80 to read (and write to txt-files) energy data of Iskra AM 550 of Wiener Netze
 
 Without pocki80 who did the work in Python 3, I wouldn't have any chance to decode and to CRC-check the gotten values! Many Thnx.
 
