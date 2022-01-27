@@ -3,6 +3,13 @@ a php tribute to pocki80 to read (and write to txt-files) energy data of Iskra A
 
 Without pocki80 who did the work in Python 3, I wouldn't have any chance to decode and to CRC-check the gotten values! Many Thnx.
 
+pocki80 (Python 3)
+
+CRC16: https://gist.github.com/pocki80/c4887c40abc11ed6df46e4aa0550e38f
+
+read data: https://gist.github.com/pocki80/941fa090a8d6269a9b3b68c195f8750f
+
+
 This project was started to read the smart meter values from Iskra(emeco) AM550 from Wiener Netze
 
 "Hardware"
